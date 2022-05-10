@@ -1,10 +1,11 @@
 # A Simple Random Quotes Generator App with Svelte
 
-This serves as a basic random quotes generator app made with Svelte.
+This serves as a basic random quotes generator app made with Svelte. <br>
 The inital original workings to this is from [Build a Random Quote Machine with Svelte and Parcel
 ](https://dev.to/ringmaster/build-a-random-quote-machine-with-svelte-and-parcel-4l4c)
 
-A transition effect was added button is clicked and the "share to tweet" was removed.
+A transition effect was added as a feature the "share to tweet" was removed. <br>
+Additional item installed is the [rollup/plugin-json](https://www.npmjs.com/package/@rollup/plugin-json).
 
 ---
 
