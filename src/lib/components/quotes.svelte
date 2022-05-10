@@ -33,8 +33,11 @@
 </button>
 
 <style>
+    span {
+        color: rebeccapurple;
+    }
+
 	footer {
-        
 		font-weight: 500;
 		margin-left: 3rem;
 	}
