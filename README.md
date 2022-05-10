@@ -29,7 +29,7 @@ If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommen
 
 ![image](https://user-images.githubusercontent.com/36339564/167565798-d91e8dcc-45a3-4d5a-9a9e-f6eb00b8b5ef.png)
 
---
+---
 
 ## Building and running in production mode
 
