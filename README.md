@@ -1,19 +1,20 @@
-# A Simple Random Quotes Generator App with Svelte
+# Basic Random Quotes Generator made with Svelte
 
 This serves as a basic random quotes generator app made with Svelte. <br>
 The inital original workings to this is from [Build a Random Quote Machine with Svelte and Parcel
 ](https://dev.to/ringmaster/build-a-random-quote-machine-with-svelte-and-parcel-4l4c)
 
 A transition effect was added as a feature the "share to tweet" was removed. <br>
-Additional item installed is the [rollup/plugin-json](https://www.npmjs.com/package/@rollup/plugin-json).
+Additional requirement installed is the [rollup/plugin-json](https://www.npmjs.com/package/@rollup/plugin-json).
 
 ---
 
 ## Get started
 
-Git clone and run it!
+Git clone and run it with your own favourite quotes!
 
 ```bash
+npm i
 npm run dev
 ```
 
@@ -48,19 +49,4 @@ Then, from within your project folder:
 ```bash
 cd public
 vercel deploy --name my-project
-```
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public my-project.surge.sh
 ```
