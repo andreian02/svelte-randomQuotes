@@ -27,7 +27,7 @@ If you're using [Visual Studio Code](https://code.visualstudio.com/) we recommen
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/36339564/167565798-d91e8dcc-45a3-4d5a-9a9e-f6eb00b8b5ef.png)
+![image](https://user-images.githubusercontent.com/36339564/167566646-76d750e3-437f-4056-96dd-917a91f005ef.png)
 
 ---
 
